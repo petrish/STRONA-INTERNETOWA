@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+div {
+    width: 400px;
+    height: 200px;
+}
+
+div {
+    background-color: white;
+}
+
+.czerwony {
+    background-color: red;
+}
+
+.kolor {
+    background-color: green;
+}
+
+.niebieski {
+    background-color: blue;
+}
+
+.zolty {
+    background-color: yellow;
+}
+
+.kolor {
+    background-color: green;
+}
+
+.czarny {
+    background-color: black;
+}
